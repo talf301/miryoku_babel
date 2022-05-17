@@ -107,7 +107,7 @@ The base layer is maintained as separate tables for tap alphas, tap thumbs, and 
 
 #+NAME: hold
 | RESET  |        |        |        |        |        |        |        |        | RESET  |
-| LGUI   | LALT   | LCTL   | LSFT   |        |        | LSFT   | LCTL   | LALT   | LGUI   |
+| LALT   | LGUI   | LSFT   | LCTL   |        |        | LCTL   | LSFT   | LGUI   | LALT   |
 | BUTTON | ALGR   |        |        |        |        |        |        | ALGR   | BUTTON |
 | U_NP   | U_NP   | MEDIA  | NAV    | MOUSE  | SYM    | NUM    | FUN    | U_NP   | U_NP   |
 
@@ -134,7 +134,7 @@ The base layer is maintained as separate tables for tap alphas, tap thumbs, and 
 
 #+NAME: button
 | U_UND | U_CUT | U_CPY | U_PST | U_RDO | U_RDO | U_PST | U_CPY | U_CUT | U_UND |
-| LGUI  | LALT  | LCTL  | LSFT  |       |       | LSFT  | LCTL  | LALT  | LGUI  |
+| LALT  | LGUI  | LSFT  | LCTL  |       |       | LCTL  | LSFT  | LGUI  | LALT  |
 | U_UND | U_CUT | U_CPY | U_PST | U_RDO | U_RDO | U_PST | U_CPY | U_CUT | U_UND |
 | U_NP  | U_NP  | BTN2  | BTN3  | BTN1  | BTN1  | BTN3  | BTN2  | U_NP  | U_NP  |
 
